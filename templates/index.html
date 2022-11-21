@@ -1,0 +1,44 @@
+<html html>
+<html lang="en"></html>
+      <head>
+             <!-- Required meta tags -->
+             <meta charset="utf-8">
+             <title>Captioning website</title>
+             <style>
+              h1{
+                  color: black;
+                  font-size: 30px;
+                  width: 900px;
+                  font-weight: bold;
+                  text-align: center;
+                  position:relative;
+                  top:30px;
+                  left:170px;
+               }
+                  form
+                  {
+                    position: relative;
+                    left:450px;
+                    top:45px;
+                    font-family: Georgia, 'Times New Roman', Times, serif;
+                   }
+             </style>
+             
+      </head>
+      <body style="background-color: #bcc4cf">
+        <div class="wrapper">
+            <div class="center">
+			<h1>Welcome To Image Captioning</h1>
+            </div>
+            <div class="f">
+                  <form action="{{url_for('after')}}" enctype="multipart/form-data" method="POST">
+                        <nav class="navbar">
+                              <input type="file" name="file1">
+                              <input type="submit">
+                        </nav>
+                  </form>
+            </div>
+            
+         </div>
+      </body>
+</html>
