@@ -1,6 +1,6 @@
 # imagecaptioning-ranjani
-this is a repository wherewe have developed a website which asks the user to upload and file and respective caption is generated using our model and the caption is
-displayed
+this is a repository wherewe have developed a website which asks the user to upload and file and respective caption is generated using our model 
+and the caption is displayed
 
 │
 ├── README.md <- This has all the instuctions for developers using this project.
@@ -10,7 +10,8 @@ displayed
 │ 
 ├── templates           
 │   ├── index.html   <- Home page for our website where we upload the test image
-│   ├── predict.html <- Second page which apperas when you click submit button on the home page. it displays the corresponding captions with the image uploaded
+│   ├── predict.html <- Second page which apperas when you click submit button on the home page. it displays 
+│                       the corresponding captions with the image uploaded
 │ 
 │── app.py <- This file contains the flask commands required to run the web app
 │
