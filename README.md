@@ -1,9 +1,7 @@
 # imagecaptioning-ranjani
 this is a repository wherewe have developed a website which asks the user to upload and file and respective caption is generated using our model and the caption is
 displayed
-
-![image](https://user-images.githubusercontent.com/118736385/203057356-95dd7edc-f67b-4218-8ec5-1ccc867f9c01.png)
-
+![image](https://user-images.githubusercontent.com/118736385/203066869-7fc66c53-16c8-475d-9e9a-6a342d727388.png)
 Steps to follow 
 1. Download the dataset from https://www.kaggle.com/datasets/ranjanit/ranjani-dataset-image-captioning
 2. Download the imagecaptioning_Ranjani.ipynb and run 
