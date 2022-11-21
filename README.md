@@ -3,16 +3,16 @@ this is a repository wherewe have developed a website which asks the user to upl
 displayed
 
 │
-├── README.md                 <- This has all the instuctions for developers using this project.
+├── README.md <- This has all the instuctions for developers using this project.
 ├── static
-│   ├── file                  <- Everytime you host the project the image you upload on the website will be stored here
-│   ├── style.css             <- The CSS file for our website
+│   ├── file  <- Everytime you host the project the image you upload on the website will be stored here
+│   ├── style.css <- The CSS file for our website
 │ 
 ├── templates           
-│   ├── index.html             <- Home page for our website where we upload the test image
-│   ├── predict.html           <- Second page which apperas when you click submit button on the home page. it displays the corresponding captions with the image uploaded
+│   ├── index.html   <- Home page for our website where we upload the test image
+│   ├── predict.html <- Second page which apperas when you click submit button on the home page. it displays the corresponding captions with the image uploaded
 │ 
-│── app.py                    <- This file contains the flask commands required to run the web app
+│── app.py <- This file contains the flask commands required to run the web app
 │
 │── imagecaptioning_Ranjani.ipynb  <- Jupyter notebook in which we train and build our image caption generator.
 │
