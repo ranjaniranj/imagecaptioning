@@ -1,5 +1,5 @@
 # imagecaptioning-ranjani
-this is a repository wherewe have developed a website which asks the user to upload and file and respective caption is generated using our model and the caption is
+This is a repository wherewe have developed a website which asks the user to upload and file and respective caption is generated using our model and the caption is
 displayed
 ![image](https://user-images.githubusercontent.com/118736385/203066869-7fc66c53-16c8-475d-9e9a-6a342d727388.png)
 Steps to follow 
