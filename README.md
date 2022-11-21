@@ -2,32 +2,5 @@
 this is a repository wherewe have developed a website which asks the user to upload and file and respective caption is generated using our model and the caption is
 displayed
 
-│
-├── README.md <- This has all the instuctions for developers using this project.
-├── static
-│   ├── file  <- Everytime you host the project the image you upload on the website will be stored here
-│   ├── style.css <- The CSS file for our website
-│ 
-├── templates           
-│   ├── index.html   <- Home page for our website where we upload the test image
-│   ├── predict.html <- Second page which apperas when you click submit button on the home page. it displays the corresponding captions with the image uploaded
-│ 
-│── app.py <- This file contains the flask commands required to run the web app
-│
-│── imagecaptioning_Ranjani.ipynb  <- Jupyter notebook in which we train and build our image caption generator.
-│
-│ Note: the three files listed below will be generated automatically when you run the ,ipynb files in your system
-│
-│── mine_model_weights.h5     
-│
-│── model.h5 
-│
-│── vocab.npy
-│
-├── dataset 
-│   ├── Images               <- Code for model deployment and website design
-│   ├── Flickr8k.token       <- Pretrained data for model
-│
-│
-└── requirements.txt   <- The requirements file for reproducing the analysis environment.
-![image](https://user-images.githubusercontent.com/118736385/203057204-2e2efecf-7e44-4c8c-b161-4023d86a97df.png)
+![image](https://user-images.githubusercontent.com/118736385/203057356-95dd7edc-f67b-4218-8ec5-1ccc867f9c01.png)
+
